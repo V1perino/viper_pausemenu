@@ -1,1 +1,5 @@
 # pausemenu
+
+RED THEMED PAUSEMENU ENJOY!
+
+DISCORD: 17𝑥𝑣𝑖𝑝𝑒𝑟#5945
