@@ -14,7 +14,7 @@ Citizen.CreateThread(function()
     ReplaceHudColourWithRgba(
         117,
         147,19,19,
-        255) -- In this example the color of the hud will be red.
+        255)
  end)  
 
 Citizen.CreateThread(
@@ -58,8 +58,8 @@ Citizen.CreateThread(function()
         EndScaleformMovieMethod()
 
         --BeginScaleformMovieMethodOnFrontendHeader("SET_MENU_ITEM_COLOUR")
-        --ScaleformMovieMethodAddParamInt(1); --// column
-        --ScaleformMovieMethodAddParamInt(_header.stripColor); --// colorID
+        --ScaleformMovieMethodAddParamInt(1); --// Sloupec
+        --ScaleformMovieMethodAddParamInt(_header.stripColor); --// Barva ID
         --EndScaleformMovieMethodReturnValue()
 
         BeginScaleformMovieMethodOnFrontendHeader("SET_HEADER_TITLE")
